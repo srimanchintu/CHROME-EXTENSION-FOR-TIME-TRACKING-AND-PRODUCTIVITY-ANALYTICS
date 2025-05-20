@@ -22,3 +22,4 @@ def get_stats():
     total_time = sum(d['duration'] for d in data)
     return {"total_seconds": total_time}
 
+# i have this task 4 CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS by using main. python
